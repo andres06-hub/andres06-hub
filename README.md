@@ -2,7 +2,7 @@
 <h1 align="center">FullStack Developer</h1>
 <h3 align="center">A passionate developer who wants to fill himself with technological knowledge.</h3>
 
-- 🔭 I’m currently working on **Improve my skills and focus on the Backend.**
+- 🔭 I’m currently working on **improving my skills and never stop learning.**
 
 - 💬 Ask me about **Diverse backend and frontend technologies**
 
@@ -13,7 +13,6 @@
 <a href="https://twitter.com/andressr06" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andressr06" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/andressierrarojas/" target="_blank"><img align="center"   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andressierrarojas/" height="30" width="40" /></a>
 </p>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <div align="center">
 	<br>
@@ -63,7 +62,9 @@
 <br />
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=andres06-hub&theme=dark&hide_border=false)<br/>
+<div align="center">
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=andres06-hub&theme=dark&hide_border=false)<br/>
+</div>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres06-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres06-hub&layout=compact&langs_count=7&theme=tokyonight"/>
