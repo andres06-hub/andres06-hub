@@ -14,10 +14,6 @@
 <a href="https://www.linkedin.com/in/andressierrarojas/" target="_blank"><img align="center"   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andressierrarojas/" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
 
 ### Frontend technologies
 
