@@ -9,8 +9,8 @@
 
 ### Connect with me
 <p align="left">
-<a href="https://twitter.com/andressr06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andressr06" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/andressierrarojas/" target="blank"><img align="center"   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andressierrarojas/" height="30" width="40" /></a>
+<a href="https://twitter.com/andressr06" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andressr06" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andressierrarojas/" target="_blank"><img align="center"   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andressierrarojas/" height="30" width="40" /></a>
 </p>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
