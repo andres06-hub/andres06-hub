@@ -63,8 +63,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-	![](https://github-readme-streak-stats.herokuapp.com/?user=andres06-hub&theme=dark&hide_border=false)<br/>
-	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andres06-hub&theme=dark&hide_border=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andres06-hub&theme=dark&hide_border=false"/>
 </div>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres06-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
