@@ -16,6 +16,10 @@
 
 *************
 
+<div align="center">
+ <img height="180em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGY1MzY1OWRjODI2ODgwOWU3MDMzMWIwZjRiMTExMDI2MDViYTFmNiZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
+
 ### Frontend technologies
 
 ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=) ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
