@@ -57,6 +57,9 @@
 <p align="left"> 
 </p>
 
+### Agile Methodologies
+- Scrum
+- SAFe
 
 <br />
 
