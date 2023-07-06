@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/andressierrarojas/" target="_blank"><img align="center"   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andressierrarojas/" height="30" width="40" /></a>
 </p>
 
-************
+***********
 
 <div align="center">
  <img height="180em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGY1MzY1OWRjODI2ODgwOWU3MDMzMWIwZjRiMTExMDI2MDViYTFmNiZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
