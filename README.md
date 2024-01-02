@@ -1,14 +1,12 @@
 [![](https://visitcount.itsvg.in/api?id=andres06-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h1 align="center">Hi 👋, I'm Andres Sierra</h1>
+<h1 align="center">Hi  there 👋
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Full Stack Developer | 🛸 Colombia , COL <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <h3 align="center">A passionate developer who wants to fill himself with technological knowledge.</h3>
 
 - 🔭 I’m currently working on **improving my skills and never stop learning.**
-
-- 💬 Ask me about **Diverse backend and frontend technologies**
 
 - 📫 How to reach me **andressierrarojas7@gmail.com**
 
