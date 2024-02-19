@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **andressierrarojas7@gmail.com**
 
-*******
+******
 
 ### 🖥️ Workspace Setup
  ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=) 
