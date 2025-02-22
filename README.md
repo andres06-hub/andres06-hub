@@ -1,41 +1,20 @@
-[![](https://visitcount.itsvg.in/api?id=andres06-hub&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">Hi there 👋 <br><br>💻 Full Stack Developer | 🛸 Colombia , COL<br>A passionate developer who wants to fill himself with technological knowledge.<br><br>    🔭 I’m currently working on improving my skills and never stop learning.<br><br>    📫 How to reach me andressierrarojas7@gmail.com</p>
 
-<h2 align="center">Hi  there 👋 </h2>
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10"> 💻 Full Stack Developer | 🛸 Colombia , COL <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10"></h3>
-<h4 style="font-weight: bold;">A passionate developer who wants to fill himself with technological knowledge.</h4>
+###
 
-- 🔭 I’m currently working on **improving my skills and never stop learning.**
-
-- 📫 How to reach me **andressierrarojas7@gmail.com**
-
-*****
-
-### 🖥️ Workspace Setup
- ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=) 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Neovim](https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=Neovim&logoColor=FFFFFF&label=)
-
-<br />
-
-*****
-
-<br />
-
-## 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andres06-hub&theme=dark&hide_border=false"/>
-</div>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andres06-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres06-hub&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andres06-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andres06-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=andres06-hub&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=andres06-hub&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andres06-hub&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+###
 
-<br />
+<img src="https://raw.githubusercontent.com/andres06-hub/andres06-hub/output/snake.svg" alt="Snake animation" />
 
-**********
-
-<br />
+###
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
