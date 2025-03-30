@@ -1,6 +1,6 @@
 <p align="center">Hi there 👋 <br><br>💻 Full Stack Developer | 🛸 Colombia , COL<br>A passionate developer who wants to fill himself with technological knowledge.<br><br>    🔭 I’m currently working on improving my skills and never stop learning.<br><br>    📫 How to reach me andressierrarojas7@gmail.com</p>
 
-###
+#####
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andres06-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
